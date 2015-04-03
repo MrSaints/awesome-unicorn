@@ -18,6 +18,12 @@ Essentially, I am using this as my web design / development bookmark manager and
 In the future, it should be easy to write tools to import / export bookmarks (e.g. a Chrome extension) while leveraging on Git version control.
 
 
+Why Jekyll?
+-----------
+
+It is supported by Github Pages. Due to the aforementioned flexibility, I can easily switch to another static site generator in the future.
+
+
 How are you categorising bookmarks?
 -----------------------------------
 
