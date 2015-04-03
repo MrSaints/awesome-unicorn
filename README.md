@@ -1,7 +1,7 @@
 Awesome Unicorn
 ===============
 
-Yet another curated list of anything and everything; mostly for web unicorns. Jack of all trades, master of none.
+Yet another curated list of anything and everything; mostly for web unicorns - Jack of all trades, master of none.
 
 
 Why aren't you using awesome markdown?
@@ -32,3 +32,9 @@ Mostly intuition, but with a hint of conscious reasoning at times.
 There are many bookmarks that fall in several categories. The very art of being a _web unicorn_ entails the breaking down of these classifications / boundaries and a recognition of the benefits of an interdisplinary approach.
 
 I guess you can say it is pretty ironic for me to do the exact opposite of the above, but it is a trade-off I am making for the purpose of organisation.
+
+
+Why are you collecting these bookmarks?
+---------------------------------------
+
+I am a hoarder, on the computer. There may also come a time when I need to look for a certain bookmark.
