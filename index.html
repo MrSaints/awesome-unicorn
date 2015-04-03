@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% for links_hash in site.data %}
+{% assign category = links_hash[1] %}
+<h1>{{ category.name }}</h1>
+
+<ul>
+{% assign sorted_links = category.links | sort: "title" %}
+{% for link in sorted_links %}
+    <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+{% endfor %}
+</ul>
+{% endfor %}

@@ -1,0 +1,13 @@
+name: Algorithms and Data Structures
+links:
+    - title: "Maze Algorithms"
+      url: http://www.jamisbuck.org/mazes/
+
+    - title: "VisuAlgo: Visualising data structures and algorithms through animation"
+      url: http://visualgo.net/
+
+    - title: "Algomation: Animated algorithms"
+      url: http://www.algomation.com/
+
+    - title: "Problem Solving with Algorithms and Data Structures (Python)"
+      url: http://interactivepython.org/runestone/static/pythonds/index.html

@@ -1,0 +1,16 @@
+name: Typography
+links:
+    - title: "Type Genius: Find the perfect font combo for your next project"
+      url: http://www.typegenius.com/
+
+    - title: "Typ.io: Fonts that go together"
+      url: http://www.typ.io/
+
+    - title: "Google Web Fonts Helper: Self-host Google fonts"
+      url: https://github.com/majodev/google-webfonts-helper
+
+    - title: "Typewolf: A comprehensive guide to smart quotes, dashes & other typographic characters"
+      url: http://www.typewolf.com/cheatsheet
+
+    - title: "Loading webfonts with high performance on responsive websites"
+      url: http://bdadam.com/blog/loading-webfonts-with-high-performance.html
