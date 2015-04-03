@@ -2,7 +2,9 @@ name: React and Flux
 links:
     - title: "Yo in Flux"
       url: http://davidandsuzi.com/yo-in-flux/
+
     - title: "React.parts: A catalog of React Native components"
       url: http://react.parts/
+
     - title: "What the Flux?"
       url: http://jonathancreamer.com/what-the-flux/
