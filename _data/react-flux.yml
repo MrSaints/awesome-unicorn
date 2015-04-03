@@ -8,3 +8,9 @@ links:
 
     - title: "What the Flux?"
       url: http://jonathancreamer.com/what-the-flux/
+
+    - title: "Building interface previews (Facebook) with React by Callum Hart"
+      url: http://www.callumhart.com/blog/building-interface-previews-with-react
+
+    - title: "Using React.js and Application Cache for a fast, synced app"
+      url: http://www.tabforacause.org/blog/2015/01/29/using-reactjs-and-application-cache-fast-synced-app/
