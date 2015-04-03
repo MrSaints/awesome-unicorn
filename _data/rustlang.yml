@@ -1,0 +1,7 @@
+name: Rust
+links:
+    - title: "An alternative introduction to Rust"
+      url: http://words.steveklabnik.com/a-new-introduction-to-rust
+
+    - title: "Let's Build a Browser Engine (Toy)!"
+      url: http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html

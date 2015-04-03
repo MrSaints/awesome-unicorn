@@ -1,0 +1,13 @@
+name: JavaScript
+links:
+    - title: "JavaScript Memory Management Masterclass"
+      url: https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass
+
+    - title: "LeanPub: Understanding ECMAScript 6"
+      url: https://leanpub.com/understandinges6/read/
+
+    - title: "You’re Missing the Point of Server-Side Rendered JavaScript Apps (Ember FastBoot)"
+      url: http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/
+
+    - title: "JavaScript Application Architecture On The Road To 2015"
+      url: https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b
