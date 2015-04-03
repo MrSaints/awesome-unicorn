@@ -1,10 +1,11 @@
 Awesome Unicorn
----------------
+===============
 
 Yet another curated list of anything and everything; mostly for web unicorns. Jack of all trades, master of none.
 
 
-# Why aren't you using awesome markdown?
+Why aren't you using awesome markdown?
+--------------------------------------
 
 Storing my bookmarks in a data format such as YAML or JSON provides me with greater flexibility. I can defer the presentation for another time among many other benefits:
 
