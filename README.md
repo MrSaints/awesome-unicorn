@@ -15,3 +15,14 @@ Storing my bookmarks in a data format such as YAML or JSON provides me with grea
 
 Essentially, I am using this as my web design / development bookmark manager and what I intend on creating is a simple boilerplate for that.
 
+In the future, it should be easy to write tools to import / export bookmarks (e.g. a Chrome extension) while leveraging on Git version control.
+
+
+How are you categorising bookmarks?
+-----------------------------------
+
+Mostly intuition, but with a hint of conscious reasoning at times.
+
+There are many bookmarks that fall in several categories. The very art of being a _web unicorn_ entails the breaking down of these classifications / boundaries and a recognition of the benefits of an interdisplinary approach.
+
+I guess you can say it is pretty ironic for me to do the exact opposite of the above, but it is a trade-off I am making for the purpose of organisation.
