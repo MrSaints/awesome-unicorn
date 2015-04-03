@@ -1,14 +1,21 @@
 ---
 layout: default
 ---
-{% for links_hash in site.data %}
-{% assign category = links_hash[1] %}
+{% capture categories %}
+    {% for hash in site.data %}
+        {{ hash[0] }}
+    {% endfor %}
+{% endcapture %}
+{% assign sorted_categories = categories | split: " " | sort %}
+
+{% for category_file in sorted_categories %}
+{% assign category = site.data[category_file] %}
 <h1>{{ category.name }}</h1>
 
 <ul>
-{% assign sorted_links = category.links | sort: "title" %}
-{% for link in sorted_links %}
-    <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-{% endfor %}
+    {% assign sorted_links = category.links | sort: "title" %}
+    {% for link in sorted_links %}
+        <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+    {% endfor %}
 </ul>
 {% endfor %}
