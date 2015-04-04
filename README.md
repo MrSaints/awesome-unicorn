@@ -13,7 +13,7 @@ Storing my bookmarks in a data format such as YAML or JSON provides me with grea
 - Create automated tests (to remove deadlinks)
 - Ease sorting / filtering / searching
 
-Essentially, I am using this as my web design / development bookmark manager and what I intend on creating is a simple boilerplate for that.
+Essentially, I am using this as my web design / development bookmark manager and what I intend on creating is a simple boilerplate for that. It is hence, part of a much larger project.
 
 In the future, it should be easy to write tools to import / export bookmarks (e.g. a Chrome extension) while leveraging on Git version control.
 
