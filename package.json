@@ -1,25 +1,27 @@
 {
   "name": "awesome-unicorn",
   "version": "1.0.0",
-  "description": "Awesome Unicorn ===============",
+  "description": "Yet another curated list of anything and everything; mostly for web unicorns - Jack of all trades, master of none.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha --compilers coffee:coffee-script/register"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/MrSaints/awesome-unicorn.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Ian Lai <ian@fyianlai.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MrSaints/awesome-unicorn/issues"
   },
   "homepage": "https://github.com/MrSaints/awesome-unicorn",
   "devDependencies": {
     "async": "^0.9.0",
+    "coffee-script": "^1.9.1",
     "glob": "^5.0.3",
     "js-yaml": "^3.2.7",
+    "mocha": "^2.2.1",
     "should": "^5.2.0",
     "supertest": "^0.15.0"
   }
