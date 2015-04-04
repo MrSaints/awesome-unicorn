@@ -3,17 +3,17 @@ fs = require "fs"
 glob = require "glob"
 yaml = require "js-yaml"
 
-request = require "supertest"
-should = require "should"
+request = require "request"
+expect = require("chai").expect
 
 files = glob.sync "_data/*.yml"
 
 _TestLink = (link, callback) ->
     describe link.title, ->
         it "responds with 200", (done) ->
-            request(link.url)
-                .get("/")
-                .expect 200, done
+            request.get link.url, (err, res, body) ->
+                expect(res.statusCode).to.equal 200
+                done()
     callback()
 
 _TestCategory = (file, callback) ->
