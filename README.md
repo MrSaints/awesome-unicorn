@@ -1,4 +1,4 @@
-Awesome Unicorn
+Awesome Unicorn [![Build Status](https://travis-ci.org/MrSaints/awesome-unicorn.svg?branch=gh-pages)](https://travis-ci.org/MrSaints/awesome-unicorn)
 ===============
 
 Yet another curated list of anything and everything; mostly for web unicorns - Jack of all trades, master of none.
@@ -10,8 +10,9 @@ Yet another curated list of anything and everything; mostly for web unicorns - J
 Storing my bookmarks in a data format such as YAML or JSON provides me with greater flexibility. I can defer the presentation for another time among many other benefits:
 
 - Create different templates (I could even generate a markdown version of it)
-- Create automated tests (to remove deadlinks)
-- Ease sorting / filtering / searching
+- [Create automated tests (to remove deadlinks)](https://travis-ci.org/MrSaints/awesome-unicorn)
+- [Ease sorting / filtering / searching](https://github.com/MrSaints/awesome-unicorn/blob/gh-pages/index.html)
+- Management tools (e.g. autogenerate metadata and thumbnails; archiving)
 
 Essentially, I am using this as my web design / development bookmark manager and what I intend on creating is a simple boilerplate for that. It is hence, part of a much larger project.
 
